@@ -25,7 +25,7 @@
     </div>
 @endif
     <div class="mb-3">
-    <label>Name</label>
+    <label>User_Name</label>
     <input type="text" class="form-control" name="name">
   </div>
   <div class="mb-3">
@@ -38,6 +38,6 @@
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
  </form>
- </div>
+</div>
   </body>
 </html>
